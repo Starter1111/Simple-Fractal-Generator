@@ -1,8 +1,8 @@
 # Simple-Fractal-Generator
 
-Generations of 1D to 3D Fractals with prescribed iteration times
+Generate 1D to 3D fractals under prescribed iteration times
 
-Presentations of 4 typical fractal patterns.
+Present 4 typical fractal patterns.
 
 
 1D --- Cantor line segment
