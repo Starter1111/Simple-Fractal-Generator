@@ -2,7 +2,7 @@
 
 Generates 1D to 3D fractals under prescribed iteration times
 
-Presents 4 typical fractal patterns.
+Presents 4 typical fractal patterns
 
 
 1D --- Cantor line segment
